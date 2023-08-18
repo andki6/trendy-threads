@@ -1,3 +1,3 @@
-# trendy-threads
+# Trendy Threads
 
 Go into client/server for instructions
